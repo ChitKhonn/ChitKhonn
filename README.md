@@ -13,7 +13,7 @@
 
 ### 🚀 Check out [my portfolio.]()
 
-### 📫 Connect with me [LinkedIn]()
+### 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/chit-khonn-cho-99a9a5269/)
 
 <br>
 <br>
