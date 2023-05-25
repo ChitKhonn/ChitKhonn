@@ -1,4 +1,4 @@
-<h3 align="center">A full-stack web developer from Myanmar </h3>
+<h3 align="center">A full-stack developer from Myanmar </h3>
 
 <div align="center"> 
    <img src="https://komarev.com/ghpvc/?username=ChitKhonn&color=red">
