@@ -11,7 +11,7 @@
 
 ### 💻 All **my projects** are available [here.]()
 
-### 🚀 Check out [my portfolio.]()
+### 🚀 Check out [my portfolio.](https://portfoliockc.netlify.app/)
 
 ### 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/chit-khonn-cho-99a9a5269/)
 
