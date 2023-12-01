@@ -27,7 +27,7 @@
 <img src="./borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ChitKhonn&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ChitKhonn&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ChitKhonn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
 <br>
 <br>
