@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align="right" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1QEqUfFy_m1khbw6MOEQSlHJS_45ZvnyQQ&usqp=CAU"/>
+<img align="right" width="500" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU"/>
 
 ### 💻 All **my projects** are available [here.](https://github.com/ChitKhonn?tab=repositories)
 
